@@ -1,0 +1,15 @@
+customerio/__init__.py,sha256=UVprqD9hdn9G_lpDsVvOtC_ug1Ec5d5ZLtUem7Dtgt0,5397
+customerio-0.2.3.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
+customerio-0.2.3.dist-info/METADATA,sha256=53yqvxl7NtHZDrY3W02OzkUHFAzDq53wFprYxOe1C1k,744
+customerio-0.2.3.dist-info/RECORD,,
+customerio-0.2.3.dist-info/WHEEL,sha256=ZjEnM9ajJj3CC6PFLEd3wiDD9cvgsTK9wvIqII7XxRs,98
+customerio-0.2.3.dist-info/metadata.json,sha256=nshmIihQxsJ969Dbhy63I7zY3LurFI9Toua_L4D4meM,869
+customerio-0.2.3.dist-info/top_level.txt,sha256=-FSdmczPko6Z-IW-MlIE8gDVLOeu6HTH2JP_HxEGoHU,17
+tests/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+tests/server.py,sha256=TtPuiozjgEls4PH0Pr_Vo_e29qRpLtfbId3L2-Gd9I0,3017
+tests/test_customerio.py,sha256=Qj2p4I70S4k8lFvfwm7GfJlXUJW_4ZFPr61cXIr6VKw,6181
+customerio-0.2.3.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+tests/test_customerio.pyc,,
+tests/server.pyc,,
+tests/__init__.pyc,,
+customerio/__init__.pyc,,
